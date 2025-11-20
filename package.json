@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is CRUD operation",
+  "keywords": [
+    "express",
+    "mongoose"
+  ],
+  "license": "ISC",
+  "author": "Ritik",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
